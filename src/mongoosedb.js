@@ -1,9 +1,9 @@
 const mongoose = require("mongoose");
 
-const user = "turito";
-const pass = "xixcrIh9HtojAOtu";
-const database = "todolist_db";
-const servername = "cluster0.vbyeowv.mongodb.net";
+const user = "tola";
+const pass = "rola";
+const database = "romba";
+const servername = "cluster0.rola.mongodb.net";
 
 module.exports = {
     init : () => {
